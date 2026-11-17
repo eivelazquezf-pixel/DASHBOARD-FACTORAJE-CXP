@@ -1,0 +1,8 @@
+{
+  "name": "Remix Liverpool \u0026 Suburbia · Dashboard de Factoraje y Control de Letras",
+  "description": "Plataforma ejecutiva de alto rendimiento para el seguimiento, control, conciliación y analítica de Factoraje Financiero y Letras de Cambio para El Puerto de Liverpool y Suburbia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
